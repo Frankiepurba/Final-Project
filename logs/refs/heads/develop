@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 66e5d6cefd39eabbe3dd9f9bb7baedbbc30de975 roberto_gleiser <roberto.gleiser@gmail.com> 1637318701 +0100	branch: Created from master
+66e5d6cefd39eabbe3dd9f9bb7baedbbc30de975 264a673f915be3f292ffd6bebc731751fd26b47d roberto_gleiser <roberto.gleiser@gmail.com> 1637318758 +0100	commit: add fileA.txt
+264a673f915be3f292ffd6bebc731751fd26b47d 6a537921cb6830790a36871767ff618eed8facd1 roberto_gleiser <roberto.gleiser@gmail.com> 1637319033 +0100	merge feature1: Fast-forward
+6a537921cb6830790a36871767ff618eed8facd1 b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca roberto_gleiser <roberto.gleiser@gmail.com> 1637320338 +0100	merge release1: Fast-forward
+b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca a7965948f2cfb310f9c6e992f8d95cfb98bfd5c0 roberto_gleiser <roberto.gleiser@gmail.com> 1637322111 +0100	merge hotfix1: Fast-forward

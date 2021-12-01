@@ -1,0 +1,14 @@
+feature 2 wip
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto a796594
+# Last command done (1 command done):
+#    pick fc831a8 feature 2 wip
+# No commands remaining.
+# You are currently rebasing branch 'feature2' on 'a796594'.
+#
+# Changes to be committed:
+#	modified:   fileA.txt
+#

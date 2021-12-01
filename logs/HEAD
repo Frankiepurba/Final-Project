@@ -1,0 +1,32 @@
+0000000000000000000000000000000000000000 66e5d6cefd39eabbe3dd9f9bb7baedbbc30de975 roberto_gleiser <roberto.gleiser@gmail.com> 1637318678 +0100	commit (initial): add README.md
+66e5d6cefd39eabbe3dd9f9bb7baedbbc30de975 66e5d6cefd39eabbe3dd9f9bb7baedbbc30de975 roberto_gleiser <roberto.gleiser@gmail.com> 1637318721 +0100	checkout: moving from master to develop
+66e5d6cefd39eabbe3dd9f9bb7baedbbc30de975 264a673f915be3f292ffd6bebc731751fd26b47d roberto_gleiser <roberto.gleiser@gmail.com> 1637318758 +0100	commit: add fileA.txt
+264a673f915be3f292ffd6bebc731751fd26b47d 264a673f915be3f292ffd6bebc731751fd26b47d roberto_gleiser <roberto.gleiser@gmail.com> 1637318793 +0100	checkout: moving from develop to feature1
+264a673f915be3f292ffd6bebc731751fd26b47d 262babe032a2d04594e0f18ef04b549b907fa5e8 roberto_gleiser <roberto.gleiser@gmail.com> 1637318851 +0100	commit: feature 1 wip
+262babe032a2d04594e0f18ef04b549b907fa5e8 6a537921cb6830790a36871767ff618eed8facd1 roberto_gleiser <roberto.gleiser@gmail.com> 1637318956 +0100	commit: add feature 1
+6a537921cb6830790a36871767ff618eed8facd1 264a673f915be3f292ffd6bebc731751fd26b47d roberto_gleiser <roberto.gleiser@gmail.com> 1637319020 +0100	checkout: moving from feature1 to develop
+264a673f915be3f292ffd6bebc731751fd26b47d 6a537921cb6830790a36871767ff618eed8facd1 roberto_gleiser <roberto.gleiser@gmail.com> 1637319033 +0100	merge feature1: Fast-forward
+6a537921cb6830790a36871767ff618eed8facd1 6a537921cb6830790a36871767ff618eed8facd1 roberto_gleiser <roberto.gleiser@gmail.com> 1637319173 +0100	checkout: moving from develop to feature2
+6a537921cb6830790a36871767ff618eed8facd1 bc68634d21a1034b105cd8661a9dd61327afe744 roberto_gleiser <roberto.gleiser@gmail.com> 1637319274 +0100	commit: feature 2 wip
+bc68634d21a1034b105cd8661a9dd61327afe744 6a537921cb6830790a36871767ff618eed8facd1 roberto_gleiser <roberto.gleiser@gmail.com> 1637319387 +0100	checkout: moving from feature2 to develop
+6a537921cb6830790a36871767ff618eed8facd1 6a537921cb6830790a36871767ff618eed8facd1 roberto_gleiser <roberto.gleiser@gmail.com> 1637319504 +0100	checkout: moving from develop to release1
+6a537921cb6830790a36871767ff618eed8facd1 b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca roberto_gleiser <roberto.gleiser@gmail.com> 1637319581 +0100	commit: fix feature 1 bug X
+b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca 66e5d6cefd39eabbe3dd9f9bb7baedbbc30de975 roberto_gleiser <roberto.gleiser@gmail.com> 1637319761 +0100	checkout: moving from release1 to master
+66e5d6cefd39eabbe3dd9f9bb7baedbbc30de975 b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca roberto_gleiser <roberto.gleiser@gmail.com> 1637319777 +0100	merge release1: Fast-forward
+b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca 6a537921cb6830790a36871767ff618eed8facd1 roberto_gleiser <roberto.gleiser@gmail.com> 1637320331 +0100	checkout: moving from master to develop
+6a537921cb6830790a36871767ff618eed8facd1 b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca roberto_gleiser <roberto.gleiser@gmail.com> 1637320338 +0100	merge release1: Fast-forward
+b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca bc68634d21a1034b105cd8661a9dd61327afe744 roberto_gleiser <roberto.gleiser@gmail.com> 1637321115 +0100	checkout: moving from develop to feature2
+bc68634d21a1034b105cd8661a9dd61327afe744 b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca roberto_gleiser <roberto.gleiser@gmail.com> 1637321122 +0100	rebase (start): checkout develop
+b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca fc831a88b7a70891fbcc2849e5660a08224daca2 roberto_gleiser <roberto.gleiser@gmail.com> 1637321168 +0100	rebase (continue): feature 2 wip
+fc831a88b7a70891fbcc2849e5660a08224daca2 fc831a88b7a70891fbcc2849e5660a08224daca2 roberto_gleiser <roberto.gleiser@gmail.com> 1637321188 +0100	rebase (continue) (finish): returning to refs/heads/feature2
+fc831a88b7a70891fbcc2849e5660a08224daca2 b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca roberto_gleiser <roberto.gleiser@gmail.com> 1637321399 +0100	checkout: moving from feature2 to master
+b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca roberto_gleiser <roberto.gleiser@gmail.com> 1637321659 +0100	checkout: moving from master to hotfix1
+b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca a7965948f2cfb310f9c6e992f8d95cfb98bfd5c0 roberto_gleiser <roberto.gleiser@gmail.com> 1637321729 +0100	commit: fix feature 1 bug Y
+a7965948f2cfb310f9c6e992f8d95cfb98bfd5c0 b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca roberto_gleiser <roberto.gleiser@gmail.com> 1637321941 +0100	checkout: moving from hotfix1 to master
+b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca a7965948f2cfb310f9c6e992f8d95cfb98bfd5c0 roberto_gleiser <roberto.gleiser@gmail.com> 1637321968 +0100	merge hotfix1: Fast-forward
+a7965948f2cfb310f9c6e992f8d95cfb98bfd5c0 b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca roberto_gleiser <roberto.gleiser@gmail.com> 1637322098 +0100	checkout: moving from master to develop
+b3c591904d24233c2728b0b8c46f8f3c1cbdb8ca a7965948f2cfb310f9c6e992f8d95cfb98bfd5c0 roberto_gleiser <roberto.gleiser@gmail.com> 1637322111 +0100	merge hotfix1: Fast-forward
+a7965948f2cfb310f9c6e992f8d95cfb98bfd5c0 fc831a88b7a70891fbcc2849e5660a08224daca2 roberto_gleiser <roberto.gleiser@gmail.com> 1637322268 +0100	checkout: moving from develop to feature2
+fc831a88b7a70891fbcc2849e5660a08224daca2 a7965948f2cfb310f9c6e992f8d95cfb98bfd5c0 roberto_gleiser <roberto.gleiser@gmail.com> 1637322298 +0100	rebase (start): checkout develop
+a7965948f2cfb310f9c6e992f8d95cfb98bfd5c0 8d99268ed15daaa62cdceead13fc8392bb5de9c4 roberto_gleiser <roberto.gleiser@gmail.com> 1637322334 +0100	rebase (continue): feature 2 wip
+8d99268ed15daaa62cdceead13fc8392bb5de9c4 8d99268ed15daaa62cdceead13fc8392bb5de9c4 roberto_gleiser <roberto.gleiser@gmail.com> 1637322348 +0100	rebase (continue) (finish): returning to refs/heads/feature2
